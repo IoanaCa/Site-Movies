@@ -515,6 +515,12 @@ progress {
   justify-content: space-evenly;
 }
 
+.iconi{
+  margin-left: 47%;
+  margin-right: 47%;
+  width: 70px;
+}
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
